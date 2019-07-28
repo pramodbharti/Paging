@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Paging</string>
+    <string name="id">Id:</string>
+    <string name="hello">hello</string>
+    <string name="name">name</string>
+    <string name="full_name">Full name:</string>
+</resources>
